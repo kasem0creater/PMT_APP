@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         //Admob setting
-        MobileAds.initialize(getApplicationContext(),"ca-app-pub-7633958771517626~1076276430");
+        MobileAds.initialize(getApplicationContext(),"YOUR ID ADMODS");
 
         Location location = new Location("AdMobProvider");
         location.setLatitude(13.543296);
